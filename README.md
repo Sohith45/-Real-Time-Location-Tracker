@@ -48,5 +48,3 @@ Features
 - Auto-updating every 2–3 seconds
 
 
-
->>>>>>> 51d62a140224629b76260dbbaa2cff22a5f25df3
